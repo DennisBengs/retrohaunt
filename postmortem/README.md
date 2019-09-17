@@ -2,7 +2,7 @@
 
 ![game](game.png)
 
-[LINK TO GAME](https://js13kgames.com/games/retrohaunt)
+[LINK TO GAME](https://js13kgames.com/games/retrohaunt/index.html)
 
 This was the second year in a row I participated in the [js13kgames](https://js13kgames.com/) coding competition. Although I prefer the shorter competitions such as [Ludum Dare](https://ldjam.com/) due to the strict time limitations, I have found that js13k is an appealing format for game development. 13 K is not so small that your only focus is on reducing code size using dirty Javascript hacks, but not so large that you can just make anything without a care.
 
