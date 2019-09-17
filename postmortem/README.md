@@ -1,6 +1,6 @@
 # Retrohaunt Postmortem (js13kgames 2019)
 
-![game](postmortem/game.png)
+![game](game.png)
 
 [LINK TO GAME](https://js13kgames.com/games/retrohaunt)
 
@@ -12,7 +12,7 @@ The theme of js13kgames this year was "Back".
 
 Retrohaunt started as a simple idea: Avoiding animated vector shapes. Hovering over certain shapes would change the flow of time, which would help the player solve certain puzzles.
 
-![concept](postmortem/concept.png)
+![concept](concept.png)
 
 A core aspect of the game was that simple 2D shapes can be stored in a relatively small amount of space. If multiple shapes are repeated or look similar to other shapes they will have a high compression ratio, allowing for quite elaborate levels. This should allow the game to have a lot of content, even in just 13 K.
 
@@ -61,7 +61,7 @@ For editing and animating the shapes some type of level editor was required. My 
 
 The editor started out simple. As the complexity of the game grew I kept adding features to it, until at the end it was a fully fledged, albeit primitive, vector editor and animator. The editor supports editing nested objects with relative transforms.
 
-![editor](postmortem/editor.png)
+![editor](editor.png)
 
 ## What went right
 
