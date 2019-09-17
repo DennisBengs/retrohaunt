@@ -12,8 +12,6 @@ The theme of js13kgames this year was "Back".
 
 Retrohaunt started as a simple idea: Avoiding animated vector shapes. Hovering over certain shapes would change the flow of time, which would help the player solve certain puzzles.
 
-![concept](concept.png)
-
 A core aspect of the game was that simple 2D shapes can be stored in a relatively small amount of space. If multiple shapes are repeated or look similar to other shapes they will have a high compression ratio, allowing for quite elaborate levels. This should allow the game to have a lot of content, even in just 13 K.
 
 Building on this concept, I originally envisioned the game being a mouse labyrinth style game (like the Scary Maze Game I'm sure many know). Over time this concept morphed into a more classic top-down puzzle game. Later yet an element of nonlinearity was added because I love Metroidvanias!
