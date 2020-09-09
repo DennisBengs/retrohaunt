@@ -65,7 +65,6 @@ with open(js_bundle_path, 'wb') as f:
 subprocess.Popen([
     'C:/Program Files/7-Zip/7z.exe',
     'a',
-    '-r',
     release_zip_path,
     ] + release_file_paths)
 
